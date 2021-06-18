@@ -3,9 +3,11 @@
 
 Library to easily create message collector, reactions collector and reactions role on discord.js v12, with customization ways.
 
-Author Note: This library has no longer support, i will not maintenance this anymore, sorry for who use and like this project. I recommend each you re-do with your own code or migrate to another library who will keep supporting discord.js updates
+Original author Note: This library has no longer support, i will not maintenance this anymore, sorry for who use and like this project. I recommend each you re-do with your own code or migrate to another library who will keep supporting discord.js updates
 
 Thank you for using discord.js-collector! ❤
+
+My mensagge: You can see this library is not longer supported, but I gonna try to give the nesesary suppor for them, I you want to help me I really apreciate it to keep this alive
 
 ---
 
